@@ -1,0 +1,9 @@
+br\com\ebac\memelandia\services\ServicoMemelandia.class
+br\com\ebac\memelandia\MemelandiaApplication.class
+br\com\ebac\memelandia\entities\CategoriaMeme.class
+br\com\ebac\memelandia\repositories\RepositorioCategoriaMeme.class
+br\com\ebac\memelandia\entities\Meme.class
+br\com\ebac\memelandia\entities\Usuario.class
+br\com\ebac\memelandia\repositories\RepositorioUsuario.class
+br\com\ebac\memelandia\repositories\RepositorioMeme.class
+br\com\ebac\memelandia\controllers\ControllerMemelandia.class
